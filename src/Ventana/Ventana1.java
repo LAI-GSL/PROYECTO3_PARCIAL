@@ -436,12 +436,7 @@ fila.addColumn("Telefono");
 
     private void OtroRegistroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_OtroRegistroActionPerformed
         // TODO add your handling code here:
-//           Cliente datos = new Cliente();
-//    datos.setID(ID.getText());
-//    datos.setNombre(Nombre.getText());
-//    datos.setEdad(Edad.getText());
-//    datos.setCorreo(Correo.getText());
-//    datos.setTelefono(Telefono.getText());
+
         TextID.setText("");
         TextNombre.setText("");
         TextEdad.setText("");
